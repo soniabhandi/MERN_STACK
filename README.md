@@ -1,4 +1,4 @@
-install node modules to run the project
+install node modules to run the project,next
 run command- npm start
 
 # Getting Started with Create React App
